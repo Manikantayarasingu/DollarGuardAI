@@ -1,0 +1,151 @@
+vendor_id,vendor_name,category,city,country,annual_spend,vendor_age_years,baseline_risk_score,active
+VEN-0001,Choudhury Bakshi and Maharaj,IT Equipment,Bengaluru,Australia,137877144.53,8,14.77,True
+VEN-0002,Kapoor and Sons,IT Equipment,Noida,India,295451009.97,2,7.09,True
+VEN-0003,Chaudry Chahal and Sami,Logistics,Mumbai,Singapore,301208355.16,18,18.92,True
+VEN-0004,Balan Inc,Facilities,Kolkata,United States,224879918.62,9,61.66,True
+VEN-0005,Kaul PLC,Raw Materials,Chennai,Australia,211595891.88,9,15.88,True
+VEN-0006,Bala Issac and Saini,Maintenance,Hyderabad,India,190273686.67,12,64.32,True
+VEN-0007,Sen PLC,Safety Equipment,Delhi,India,365001027.45,18,13.74,True
+VEN-0008,Ahuja-Dutta,Professional Services,Hyderabad,Singapore,146942551.56,21,48.3,True
+VEN-0009,Sami Oak and Mall,Maintenance,Gurugram,United States,352433632.19,2,51.29,True
+VEN-0010,Kale LLC,Packaging,Hyderabad,United States,433308591.54,13,24.46,True
+VEN-0011,Chanda Group,Maintenance,Chennai,United Kingdom,177957714.76,22,23.69,True
+VEN-0012,Parmer LLC,IT Equipment,Gurugram,Australia,85983754.77,24,22.14,True
+VEN-0013,Lalla Bassi and Sharaf,Marketing,Kolkata,United Kingdom,494766913.64,21,53.17,True
+VEN-0014,Dash Radhakrishnan and Brar,Logistics,Pune,India,114909511.95,2,61.35,True
+VEN-0015,Memon Pathak and Handa,Professional Services,Delhi,India,105885930.37,19,66.35,True
+VEN-0016,Boase Bath and Kari,Maintenance,Mumbai,Australia,249866014.12,21,37.12,True
+VEN-0017,Buch-Kaul,Packaging,Chennai,United States,372621996.55,18,23.39,True
+VEN-0018,Rai LLC,Safety Equipment,Kolkata,Singapore,200000552.32,8,74.81,True
+VEN-0019,Patla-Gaba,Office Supplies,Noida,Germany,45909251.38,2,65.28,True
+VEN-0020,Pant-Kadakia,Office Supplies,Chennai,Australia,211368903.42,3,31.93,True
+VEN-0021,Loke Bora and Garg,Safety Equipment,Ahmedabad,Singapore,126081352.93,18,65.25,True
+VEN-0022,Konda Gade and Shere,Raw Materials,Hyderabad,Australia,442451830.84,25,23.68,True
+VEN-0023,Madan-Kanda,Maintenance,Hyderabad,United Kingdom,217665242.71,15,5.23,True
+VEN-0024,Nair Bhalla and Karnik,Packaging,Noida,United States,254086996.46,4,65.94,True
+VEN-0025,Mutti Group,Packaging,Noida,Singapore,99856095.33,12,58.38,True
+VEN-0026,Bhatti-Kakar,Facilities,Noida,India,299672819.94,16,6.36,True
+VEN-0027,Murty Kala and Tata,Maintenance,Delhi,United States,29433620.66,19,71.29,True
+VEN-0028,Shanker-Dhar,IT Equipment,Ahmedabad,India,489003254.59,18,58.61,True
+VEN-0029,Dewan-Koshy,Office Supplies,Ahmedabad,Singapore,82980916.01,17,66.07,True
+VEN-0030,Yohannan Lall and Sangha,Professional Services,Mumbai,Singapore,377754965.72,23,19.08,True
+VEN-0031,Rastogi Pathak and Kanda,Packaging,Kolkata,Australia,325114089.79,15,67.97,True
+VEN-0032,Upadhyay Group,Marketing,Hyderabad,United States,112736319.85,11,6.47,True
+VEN-0033,Batta Inc,Facilities,Mumbai,Singapore,110498583.53,3,54.55,True
+VEN-0034,Dutta Ltd,Raw Materials,Mumbai,India,452757296.5,11,9.96,True
+VEN-0035,Bhatt-Rajan,Logistics,Delhi,Australia,242964542.33,18,14.26,True
+VEN-0036,Sidhu-Wadhwa,Safety Equipment,Gurugram,Germany,121877122.58,16,61.52,True
+VEN-0037,Apte-Contractor,Logistics,Hyderabad,India,329661883.38,12,34.65,True
+VEN-0038,Yadav Loke and Oak,Marketing,Bengaluru,Australia,326901016.39,21,11.89,True
+VEN-0039,Memon Group,Professional Services,Pune,India,124703838.79,7,42.54,True
+VEN-0040,Setty Inc,Office Supplies,Kolkata,United States,139633299.76,8,66.21,True
+VEN-0041,Lall Tella and Gokhale,IT Equipment,Ahmedabad,Singapore,49405409.74,21,74.95,True
+VEN-0042,Cherian Misra and Tripathi,Raw Materials,Hyderabad,United States,83572399.75,16,38.7,True
+VEN-0043,Issac Dua and Prakash,Professional Services,Bengaluru,United States,189797072.93,13,23.56,True
+VEN-0044,Zacharia PLC,Marketing,Delhi,Germany,348447456.05,24,74.68,True
+VEN-0045,Naik Group,Facilities,Ahmedabad,United States,95353984.7,7,72.81,True
+VEN-0046,Choudhury LLC,Safety Equipment,Noida,India,374113792.41,2,8.51,True
+VEN-0047,Khatri-Bhardwaj,Marketing,Noida,Singapore,79137647.61,17,10.61,True
+VEN-0048,Brar Inc,Office Supplies,Hyderabad,Singapore,34446451.26,8,33.26,True
+VEN-0049,Sunder Biswas and Walia,Safety Equipment,Mumbai,Singapore,297462317.19,20,10.74,True
+VEN-0050,Dave Ltd,Safety Equipment,Gurugram,Singapore,158526738.07,9,19.3,True
+VEN-0051,Gandhi-Lanka,Maintenance,Mumbai,United Kingdom,198195030.47,22,50.19,True
+VEN-0052,Sampath Kakar and Zacharia,Marketing,Pune,India,5153070.71,20,74.89,True
+VEN-0053,Iyer Muni and Rastogi,IT Equipment,Hyderabad,Singapore,106970578.98,9,14.27,True
+VEN-0054,Prakash Sarma and Varughese,Maintenance,Hyderabad,United States,185078780.83,6,35.67,True
+VEN-0055,Dara-Kota,Facilities,Delhi,Singapore,491934728.47,21,42.03,True
+VEN-0056,Bhatt LLC,Facilities,Delhi,Australia,52241457.71,5,23.51,True
+VEN-0057,Karpe PLC,IT Equipment,Noida,United States,136537932.05,20,19.74,True
+VEN-0058,Amble Inc,Maintenance,Mumbai,Australia,317301860.46,9,40.38,True
+VEN-0059,Bhargava Karnik and Bir,Packaging,Bengaluru,India,317325081.43,9,8.09,True
+VEN-0060,Narayanan Inc,Maintenance,Chennai,Australia,489909077.94,6,56.89,True
+VEN-0061,Khanna Mallick and Sunder,Facilities,Kolkata,Singapore,5330014.95,3,71.15,True
+VEN-0062,Zacharia and Sons,Office Supplies,Noida,India,417380212.43,19,43.68,True
+VEN-0063,Solanki Kibe and Solanki,Professional Services,Chennai,India,154475045.79,2,67.92,True
+VEN-0064,Gupta-Chandra,Logistics,Mumbai,Australia,51845414.03,25,44.19,True
+VEN-0065,Sankar LLC,Professional Services,Gurugram,Australia,77699392.5,8,65.52,True
+VEN-0066,Roy-Sibal,Office Supplies,Kolkata,India,90090651.38,11,59.77,True
+VEN-0067,Bhagat Chaudhari and Bhat,Professional Services,Mumbai,United Kingdom,80019322.57,23,12.57,True
+VEN-0068,Nori-Chopra,Raw Materials,Ahmedabad,United States,100186628.6,15,29.48,True
+VEN-0069,Handa and Sons,Logistics,Mumbai,India,330186574.78,13,27.98,True
+VEN-0070,Sen Dey and Sami,IT Equipment,Delhi,United Kingdom,320920128.43,13,52.57,True
+VEN-0071,Mallick Group,Facilities,Pune,India,58113205.05,9,17.5,True
+VEN-0072,Borra Group,Packaging,Bengaluru,India,298487341.87,12,56.0,True
+VEN-0073,Chaudhari Bedi and Zachariah,Maintenance,Kolkata,Singapore,492125806.73,4,31.96,True
+VEN-0074,Chander and Sons,Safety Equipment,Mumbai,United Kingdom,22671073.59,14,5.12,True
+VEN-0075,Ray Group,Facilities,Mumbai,United Kingdom,215933051.11,22,69.45,True
+VEN-0076,Kala-Rattan,Safety Equipment,Pune,Australia,424083632.11,24,68.0,True
+VEN-0077,Gala Group,Facilities,Delhi,Australia,204492257.86,13,53.8,True
+VEN-0078,Ramakrishnan LLC,Facilities,Chennai,United States,210512943.72,13,52.41,True
+VEN-0079,Mangal-Sampath,Office Supplies,Gurugram,Singapore,150824462.35,18,63.36,True
+VEN-0080,Sur Dubey and Gupta,Packaging,Delhi,United States,215229130.92,19,47.47,True
+VEN-0081,Kalla-Bhardwaj,Maintenance,Ahmedabad,Germany,221358819.75,7,40.78,True
+VEN-0082,Bhat Murthy and Bhandari,Office Supplies,Hyderabad,United Kingdom,257968278.95,21,48.35,True
+VEN-0083,Sood PLC,IT Equipment,Mumbai,Australia,155554522.42,7,15.31,True
+VEN-0084,Dugar Bhandari and Trivedi,Raw Materials,Mumbai,Germany,305831349.54,25,10.1,True
+VEN-0085,Grewal Inc,Professional Services,Gurugram,United States,359313784.79,13,39.61,True
+VEN-0086,Bir Keer and Raval,Logistics,Chennai,Australia,343967395.33,25,65.23,True
+VEN-0087,Koshy PLC,IT Equipment,Kolkata,United States,88355397.51,23,41.26,True
+VEN-0088,Baral Bumb and Saini,Raw Materials,Noida,United States,458776272.22,4,36.95,True
+VEN-0089,Virk Mutti and Lal,Marketing,Noida,Singapore,297928433.08,25,67.4,True
+VEN-0090,Murthy and Sons,Safety Equipment,Noida,Germany,415369300.28,18,36.21,True
+VEN-0091,Randhawa-Deep,Office Supplies,Ahmedabad,Germany,129966178.46,8,63.79,True
+VEN-0092,Mital Shankar and Mutti,Packaging,Noida,Germany,313560844.27,9,35.79,True
+VEN-0093,Andra Group,Packaging,Mumbai,United Kingdom,168255844.54,18,10.64,True
+VEN-0094,Chaudhry Borah and Yogi,Office Supplies,Mumbai,Germany,347127931.24,23,19.98,True
+VEN-0095,Toor LLC,Professional Services,Kolkata,United Kingdom,271534264.68,14,9.36,True
+VEN-0096,Palla Inc,Professional Services,Kolkata,Singapore,473057985.78,1,64.97,True
+VEN-0097,Pingle LLC,Safety Equipment,Kolkata,Germany,3445093.75,12,25.9,True
+VEN-0098,Sarma PLC,Professional Services,Kolkata,Singapore,373884076.65,18,60.99,True
+VEN-0099,Mittal Wadhwa and Anand,Logistics,Ahmedabad,United States,136831188.23,16,7.03,True
+VEN-0100,Mistry Chawla and Desai,Maintenance,Kolkata,Australia,82939843.24,15,69.37,True
+VEN-0101,D’Alia-Chhabra,Safety Equipment,Noida,India,453510966.86,19,44.51,True
+VEN-0102,Dugal Magar and Manda,Raw Materials,Hyderabad,Australia,214592078.45,15,17.72,True
+VEN-0103,Kade Oza and Jani,Packaging,Kolkata,United Kingdom,106224311.96,11,28.63,True
+VEN-0104,Lalla Tiwari and Suresh,Professional Services,Delhi,Germany,126509630.13,3,37.92,True
+VEN-0105,Behl-Chanda,Facilities,Bengaluru,United Kingdom,112498971.78,3,59.69,True
+VEN-0106,Sampath Malhotra and Basu,Raw Materials,Bengaluru,United States,100080660.84,1,48.49,True
+VEN-0107,Nath and Sons,Logistics,Chennai,Germany,334894692.89,19,71.34,True
+VEN-0108,Lala Edwin and Sathe,Marketing,Delhi,United Kingdom,84310677.11,20,72.46,True
+VEN-0109,Sane Andra and Choudhury,IT Equipment,Chennai,United Kingdom,54495325.45,1,70.02,True
+VEN-0110,Dixit PLC,Safety Equipment,Kolkata,Germany,470764563.97,7,10.32,True
+VEN-0111,Pingle PLC,Logistics,Hyderabad,Australia,386354202.03,22,47.03,True
+VEN-0112,Divan Sani and Datta,IT Equipment,Gurugram,India,173928280.77,14,51.31,True
+VEN-0113,Morar LLC,IT Equipment,Noida,Australia,170944971.84,14,62.56,True
+VEN-0114,Parmar and Sons,IT Equipment,Kolkata,United Kingdom,317974760.5,15,54.51,True
+VEN-0115,Krish Chauhan and Pandya,Professional Services,Chennai,Australia,261112500.1,21,23.91,True
+VEN-0116,Ray Dubey and Khalsa,Facilities,Ahmedabad,Germany,218069459.26,24,46.47,True
+VEN-0117,Goel Group,Maintenance,Mumbai,India,139824660.47,15,22.07,True
+VEN-0118,Gola Ltd,Marketing,Gurugram,Singapore,334260140.99,11,7.01,True
+VEN-0119,Sabharwal-Kothari,Maintenance,Chennai,Germany,106453865.16,9,28.82,True
+VEN-0120,Dutta-Chokshi,Safety Equipment,Delhi,Singapore,5570481.66,7,10.99,True
+VEN-0121,Barad-Singhal,Professional Services,Ahmedabad,Singapore,379203244.41,23,38.33,True
+VEN-0122,Iyengar Group,Marketing,Ahmedabad,India,46980148.6,8,33.31,True
+VEN-0123,Mody-Kari,Logistics,Delhi,Australia,290987014.87,16,43.74,True
+VEN-0124,Bajwa Ltd,Maintenance,Kolkata,Australia,275419042.14,12,54.2,True
+VEN-0125,Rastogi LLC,Packaging,Delhi,United Kingdom,115653751.63,24,18.48,True
+VEN-0126,Boase-Mallick,IT Equipment,Noida,Australia,92982346.3,7,56.7,True
+VEN-0127,Upadhyay-Ratta,Packaging,Gurugram,Singapore,298596974.89,4,63.28,True
+VEN-0128,Yadav Narula and Bala,Packaging,Mumbai,United Kingdom,90131051.07,1,54.56,True
+VEN-0129,Lal and Sons,Office Supplies,Delhi,India,487160318.09,18,25.45,True
+VEN-0130,Lanka Barad and Chopra,Office Supplies,Ahmedabad,India,436423507.63,19,24.9,True
+VEN-0131,Saraf Pai and Murthy,Marketing,Ahmedabad,United Kingdom,92589653.36,2,22.67,True
+VEN-0132,Vaidya-D’Alia,Marketing,Hyderabad,India,200653367.4,3,45.39,True
+VEN-0133,Gupta-Kumar,Raw Materials,Chennai,United States,405665467.1,10,10.96,True
+VEN-0134,Sarin Inc,Logistics,Hyderabad,Singapore,382339500.94,20,46.73,True
+VEN-0135,Yohannan Hegde and Patla,Safety Equipment,Mumbai,Singapore,190498824.06,15,25.81,True
+VEN-0136,Boase-Narayanan,Safety Equipment,Kolkata,United Kingdom,284530420.58,2,47.67,True
+VEN-0137,Murthy Dash and Mital,IT Equipment,Mumbai,Australia,105907085.06,22,10.68,True
+VEN-0138,More Rege and Narain,Logistics,Chennai,Singapore,37994902.02,1,33.6,True
+VEN-0139,Merchant-Datta,Safety Equipment,Ahmedabad,United Kingdom,16803607.76,10,54.49,True
+VEN-0140,Salvi Ltd,Marketing,Hyderabad,Australia,117095191.18,9,60.15,True
+VEN-0141,Ghosh-Mitra,Safety Equipment,Mumbai,Germany,57830763.08,8,50.33,True
+VEN-0142,Acharya-Modi,Packaging,Chennai,India,30289200.74,10,46.65,True
+VEN-0143,Kade-Sani,Safety Equipment,Delhi,Germany,62614652.26,23,26.29,True
+VEN-0144,Nagy Shroff and Sathe,Professional Services,Delhi,Singapore,270220790.52,15,10.63,True
+VEN-0145,Kala-Vaidya,Raw Materials,Kolkata,Australia,161499630.89,9,6.81,True
+VEN-0146,Gara-Chad,Logistics,Gurugram,Singapore,475417745.76,25,52.06,True
+VEN-0147,Varma-Nayak,Packaging,Gurugram,India,381672947.58,6,37.94,True
+VEN-0148,Keer Ltd,Marketing,Delhi,United States,498474264.73,14,49.43,True
+VEN-0149,Kar-Issac,Marketing,Hyderabad,Germany,174306547.62,11,27.47,True
+VEN-0150,Bakshi Inc,IT Equipment,Chennai,United Kingdom,206116722.35,16,25.18,True
